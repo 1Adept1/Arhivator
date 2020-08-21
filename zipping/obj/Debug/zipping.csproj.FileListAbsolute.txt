@@ -1,0 +1,21 @@
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\zipping\zipping\bin\Debug\zipping.exe.config
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\zipping\zipping\bin\Debug\zipping.exe
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\zipping\zipping\bin\Debug\zipping.pdb
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\zipping\zipping\bin\Debug\Ionic.Zip.dll
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\zipping\zipping\obj\Debug\zipping.csprojResolveAssemblyReference.cache
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\zipping\zipping\obj\Debug\zipping.Form1.resources
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\zipping\zipping\obj\Debug\zipping.Properties.Resources.resources
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\zipping\zipping\obj\Debug\zipping.csproj.GenerateResource.Cache
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\zipping\zipping\obj\Debug\zipping.exe
+C:\Users\Юлия\Documents\Visual Studio 2013\Projects\zipping\zipping\obj\Debug\zipping.pdb
+C:\Users\Виктор\Desktop\zipping\zipping\bin\Debug\zipping.exe.config
+C:\Users\Виктор\Desktop\zipping\zipping\bin\Debug\zipping.exe
+C:\Users\Виктор\Desktop\zipping\zipping\bin\Debug\zipping.pdb
+C:\Users\Виктор\Desktop\zipping\zipping\obj\Debug\zipping.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\zipping\zipping\obj\Debug\zipping.Form1.resources
+C:\Users\Виктор\Desktop\zipping\zipping\obj\Debug\zipping.Properties.Resources.resources
+C:\Users\Виктор\Desktop\zipping\zipping\obj\Debug\zipping.csproj.GenerateResource.cache
+C:\Users\Виктор\Desktop\zipping\zipping\obj\Debug\zipping.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\zipping\zipping\obj\Debug\zipping.csproj.CopyComplete
+C:\Users\Виктор\Desktop\zipping\zipping\obj\Debug\zipping.exe
+C:\Users\Виктор\Desktop\zipping\zipping\obj\Debug\zipping.pdb
